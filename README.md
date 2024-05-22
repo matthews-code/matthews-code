@@ -8,7 +8,7 @@ I am a developer who drinks too much tea while coding and is passionate about tu
 - My new portfolio is currently being developed! In the meantime, you can check out my old [portfolio website](https://www.mattbuen.dev/).
 - I've recently started a **Youtube channel!** Check out my [latest video](https://youtu.be/yOTpvIFy2Gk). 👈👀
 
-When i'm not on my computer, you can probably find me at the tennis court. I also love traveling to new places and capturing their beauty through film photography so make sure to checkout my [photography account](https://www.instagram.com/analog.collection/)! Now before I end, i'd just like to share my favorite quote.
+When i'm not on my computer, you can probably find me at the tennis court. I also love traveling to new places and capturing their beauty through film photography so make sure to checkout my [photography account](https://www.instagram.com/analog.collection/)! Oh and of course I love eating good food! Now before I end, i'd just like to share my favorite quote.
 
 > We have two lives, and the second begins when we realize we only have one.
 
