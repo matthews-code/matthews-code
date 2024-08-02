@@ -3,8 +3,8 @@
 I am a developer who drinks too much tea while coding and is passionate about turning ideas into a reality. Welcome to my profile!
 
 ### 🚀 About Me
-- I am currently taking the [Scrimba](https://v2.scrimba.com/) bootcamp course.
-- My favorite programming language is Python or Javascript (yes, Typescript too)!
+- I am currently taking the Scrimba front-end developer bootcamp.
+- My favorite programming language is Python or Javascript!
 - My new portfolio is currently being developed! In the meantime, you can check out my old [portfolio website](https://www.mattbuen.dev/).
 - I've recently started a **Youtube channel!** Check out my [latest video](https://youtu.be/yOTpvIFy2Gk). 👈👀
 
