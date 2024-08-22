@@ -3,10 +3,10 @@
 I am a developer who drinks too much tea while coding and is passionate about turning ideas into a reality. Welcome to my profile!
 
 ### 🚀 About Me
-- I am currently taking the Scrimba front-end developer bootcamp.
 - My favorite programming language is Python or Javascript!
-- My new portfolio is currently being developed! In the meantime, you can check out my old [portfolio website](https://www.mattbuen.dev/).
+- I am currently upskilling on backend technologies such as Node and Express.
 - I've recently started a **Youtube channel!** Check out my [latest video](https://youtu.be/yOTpvIFy2Gk). 👈👀
+- More about me on my [portfolio website](https://www.mattbuen.dev/).
 
 When i'm not on my computer, you can probably find me at the tennis court. I also love traveling to new destinations and capturing their beauty through film photography so make sure to checkout my [photography account](https://www.instagram.com/analog.collection/). And most importantly, I love eating good food! Now before I end, i'd just like to share my favorite quote.
 
