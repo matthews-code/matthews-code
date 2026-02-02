@@ -4,7 +4,7 @@ I am a developer who drinks too much tea while coding and is passionate about tu
 
 ### 🚀 About Me
 - My favorite programming language is Python or Javascript!
-- I am currently upskilling on backend technologies such as Node and Express.
+- I am currently a sofware engineer at [P&G](https://us.pg.com/).
 - I've recently started a **Youtube channel!** Check out my [latest video](https://youtu.be/yOTpvIFy2Gk). 👈👀
 - More about me on my [portfolio website](https://www.mattbuen.dev/).
 
@@ -12,6 +12,6 @@ When i'm not on my computer, you can probably find me at the tennis court. I als
 
 > We have two lives, and the second begins when we realize we only have one.
 
-That's all! Have a great day and happy living. 💌
+That's all! Have a great rest of your day. 💌
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=matthews-code&color=blue)
